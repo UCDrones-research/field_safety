@@ -4,7 +4,10 @@
 
 ## Assess Potential Field Hazards
 
-There are two steps to cross-reference any heading:
+Hazard assessment for field activities may be triggered by various entities, such as via animal protocol review, as part of the research/lab safety program at your campus, or through department procedures. The field hazard assessment tool below provides an overview of resources and hazard mitigation steps for common UC field activities.
+
+**All** fieldwork warrants a pre-trip discussion regarding foreseen hazards, appropriate precautions, communication options, and emergency procedures. Additional actions are listed below.
+
 
 1. Label the heading: `# Hello world {#nice-label}`. 
     - Leave the label off if you like the automated heading generated based on your heading title: for example, `# Hello world` = `# Hello world {#hello-world}`.
