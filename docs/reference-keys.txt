@@ -1,0 +1,12 @@
+tab:nice-tab
+eq:binom
+planning
+parts
+footnotes
+citations
+blocks
+equations
+callout-blocks
+sharing-your-book
+publishing
+pages

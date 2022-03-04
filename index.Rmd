@@ -1,0 +1,38 @@
+--- 
+title: "Field Operations Safety Manual"
+author: "University of California, Office of the President"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+cover-image: "images/background1.jpg"
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: ucdrones-research/field-safety
+---
+
+# UC Field Operations Manual {-}
+
+This manual provides guidelines and resources to lead safe, successful field courses and research trips. The content focuses on risk management issues that are relevant for California-based field courses and research, international trips, research expeditions, and other outdoor excursions. Field sites may include field stations, natural reserves, public lands or parks, wilderness areas, coastline or waterways, or more controlled sites such as construction areas, excavations, or mines. The Field Operations Manual was developed to serve as a reference document and teaching tool as well as to highlight applicable UC policies and State/Federal laws. The manual is organized into key sections on **planning, training, incident response, best practices for trip leaders, and appendices on common field hazards and local campus resources.**
+
+Integration of field safety planning into routine instruction and training will meet key objectives and regulatory requirements of your Campus or Department’s Injury and Illness Prevention Plan (IIPP). The IIPP is a written safety program to protect employees from illnesses and injuries per the California Code of Regulations Title 8, Section 3203, by establishing a safety management framework for identifying and correcting workplace hazards, ensuring employee training and compliance, and communicating information related to safety and health issues. Faculty, staff and students, including student employees and volunteers, are accountable for health and safety rules and following safe work practices, including:
+
+- obtaining appropriate training for designated activities
+- using personal protective equipment (PPE) and safety equipment as required and directed,
+- reporting unsafe conditions, malfunctioning equipment, and other safety concerns,
+- reporting all injuries and incidents, and
+- understanding what to do in the event of an emergency.
+
+```{r echo=FALSE, out.width='75%', fig.asp=.75, fig.align='center'}
+knitr::include_graphics("images/background1.jpg")
+```
+
+## Copyright Notice {-}
+
+Copyright © 2019 The Regents of the University of California. Except as otherwise noted, this document is subject to a Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0). More information about this license is found at: creativecommons.org/licenses/by-nc/4.0/legalcode.
+
+Attribution should be given to “University of California Office of the President – Environment, Health & Safety.” Other than for attribution purposes, use of the University of California’s name is prohibited pursuant to Section 92000 of California’s Education Code.

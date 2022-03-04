@@ -1,0 +1,13 @@
+book_filename: "Field Safety Guide"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files: ["index.Rmd",
+            "01-intro.Rmd",
+            "02-planning.Rmd",
+            "03-training.Rmd", 
+            "04-incidents.Rmd",
+            "05-best-practices.Rmd",
+            "06-appendix.Rmd"]
+output_dir: "docs"
