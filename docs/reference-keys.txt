@@ -1,12 +1,17 @@
 tab:nice-tab
 eq:binom
 planning
+assess-potential-field-hazards
+captioned-figures-and-tables
 parts
+footnotes-and-citations
 footnotes
 citations
 blocks
 equations
+theorems-and-proofs
 callout-blocks
 sharing-your-book
 publishing
 pages
+metadata-for-sharing

@@ -8,13 +8,161 @@ Hazard assessment for field activities may be triggered by various entities, suc
 
 **All** fieldwork warrants a pre-trip discussion regarding foreseen hazards, appropriate precautions, communication options, and emergency procedures. Additional actions are listed below.
 
++---------------------------------------+---------------------------------------+
+| **Destination**                                                               |
++=======================================+=======================================+
+| <input type="checkbox" disabled />    |- Register with UC Away for travel     |
+| Will you be traveling more than 100   |  insurance documentation, 24/7        |
+| miles from your home campus/office?   |  assistance, and a custom "Trip Brief"|
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Be familiar with the UC International|
+| Will you be traveling internationally?|  Activities Policy, your campus       |
+|                                       |  International Activities office      |
+|                                       |  (listed on p.13 of the Policy);      |
+|                                       |  the resources at ucgo.org            |
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Schedule a medical visit at least 6-8|
+| Does your "Trip Brief", the CDC, or   |  weeks prior to your trip;            |
+| State Department recommend            |  Occupational Health, Travel Clinic or|     
+| vaccinations or prophylaxis for your  |  Student Health Clinics available,    |
+| destination?                          |  depending on your campus.            |
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Complete a Field Safety Plan and     |
+| Will you be visiting sites with       |  review with all participants.        |
+| hazardous terrain, climate, wildfire, |                                       |
+| zoonotic risks, poor sanitation, other|- At least one participant should have |
+| environmental hazards, or remote sites|  current first aid training and carry |
+| with limited services (e.g more than  |  a first aid kid.                     |
+| 30 minutes from emergency medical     |                                       |
+| services)?                            |                                       |
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Include check-in procedures in your  |
+| Does your worksite lack reliable phone|                                       |
+| service?                              |- Avoid working alone, when possible   |
+|                                       |                                       |
+|                                       |- Carry field radios or satellite      |
+|                                       |  communication device                 |
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Request PPE and site access          |
+| Will you be visiting controlled sites |  requirements in advance              |
+| such as construction sites or mines?  |                                       |
+|                                       |- Carry UC identification              |
+|                                       |                                       |
+|                                       |- Avoid working alone, when possible   |
+|                                       |                                       |
+|                                       |- Check-in with site manager/          |
+|                                       |  superintendent to understand what    |
+|                                       |  other hazards are currently present  |
+|                                       |  on the job-site                      |
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Review UC auto insurance policies for|
+| Will you be driving to your           |  students, faculty and staff; complete|
+| destination via UC, rental or personal|  relevant driver safety training as   |
+| vehicles?                             |  required by your campus; consider off|
+|                                       |  road/4x4 training if applicable      |
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Consult with Risk Services regarding |
+| Will anyone be chartering boats,      |  appropriate insurance precautions    |
+| planes or using other non-commercial  |                                       |
+| means of transportation?              |                                       |
++---------------------------------------+---------------------------------------+
 
-1. Label the heading: `# Hello world {#nice-label}`. 
-    - Leave the label off if you like the automated heading generated based on your heading title: for example, `# Hello world` = `# Hello world {#hello-world}`.
-    - To label an un-numbered heading, use: `# Hello world {-#nice-label}` or `{# Hello world .unnumbered}`.
++---------------------------------------+---------------------------------------+
+| **Participation**
++=======================================+=======================================+
+| <input type="checkbox" disabled />    |- Review UC Field Ops Manual Ch.4:     |
+| Are you responsible for students      |  "Best Practices for Trip Leaders" and|
+| registered in a field course?         |  "Campus Resources"                   |
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Consider establishing a "Student     |
+| Will participants be camping or       |  Behavior Agreement" or reviewing a   |
+| sleeping in shared dorms, housing,    |  "Code of Conduct"                    |
+| etc.?                                 |                                       |
+|                                       |- Consider establishing a "Student     |
+|                                       |  Behavior Agreement" or reviewing a   |
+|                                       |  "Code of Conduct"                    |
+|                                       |                                       |
+|                                       |- Set the tone for a safe trip by      |
+|                                       |  discussing expectations and rules    |
+|                                       |  before the trip                      |
+|                                       |                                       |
+|                                       |- Carry a participant roster with      |
+|                                       |  emergency contact information at     |
+|                                       |  all times                            |
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Registered volunteers formally;      |
+| Will volunteers be helping on your    |  consult with Risk                    |
+| project?                              |                                       |
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Companions should be registered via  |
+| Will family members, partners, or     |  UC Away and may be eligible for UC   |
+| other companions be travelling with   |  travel benefits                      |
+| participants?                         |                                       |
++---------------------------------------+---------------------------------------+
 
-1. Next, reference the labeled heading anywhere in the text using `\@ref(nice-label)`; for example, please see Chapter . 
-    - If you prefer text as the link instead of a numbered reference use: .
++---------------------------------------+---------------------------------------+
+| **FIELD ACTIVITIES-Specifics to**     |                                       |
+| **integrate into your Field Safety**  |                                       |
+| **Plan**|                             |                                       |
++=======================================+=======================================+
+| <input type="checkbox" disabled />    |- Complete Heat Illness Prevention     |
+| Working outdoors with temperatures    |  training                             |
+| over 80 degrees F?                    |                                       |
+|                                       |- Carry sufficient water, take breaks  |
+|                                       |  in shade                             |
+|                                       |                                       |
+|                                       |- Carry shades or tarps if natural is  |
+|                                       |  unavailable                          |
+|                                       |                                       |
+|                                       |- Maintain means of communication,     |
+|                                       |  awareness of worksite location, and  |
+|                                       |  ability to obtain EMS                |
++---------------------------------------+---------------------------------------+
+|  <input type="checkbox" disabled />   |- Complete fire extinguisher training  |
+| Working in dry vegetation/areas with  |                                       |
+| high fire danger?                     |- Carry a fire extinguisher, shovel,   |
+|                                       |  and bucket of sand in your vehicle   |
+|                                       |                                       |
+|                                       |- Consult with your Campus Fire Marshal|
+|                                       |  or Fire Prevention Office            |
++---------------------------------------+---------------------------------------+
+| <input type="checkbox" disabled />    |- Provide all participants a           |
+| Working in cold, possibly wet         |  recommended gear list including      |
+| conditions?                           |  waterproof clothing, boots; layers   |
+|                                       |  for insulation, extra dry socks, tarp|
+|                                       |  etc.                                 |
+|                                       |                                       |
+|                                       |- Carry extra blankets or sleeping bag |
+|                                       |  in your vehicle for emergencies      |
++---------------------------------------+---------------------------------------+
+| Does work involve:                    |- Contact EH&S for appropriate hazard  |
+|                                       |  assessment, training, and PPE        |
+| <input type="checkbox" disabled />    |  selection                            |
+| Excavating soil more than 4 feet deep?|                                       |
+|                                       |- Include training requirements and    |
+| <input type="checkbox" disabled />    |  precautions in your Field Safety Plan|
+| Working at heights over 6 feet?       |  or refer to specific procedures,     |
+|                                       |  JHAs, etc.                           |
+| <input type="checkbox" disabled />    |                                       |
+| Entering caves, vaults, mines, or     |- If medical clearance or vaccinations |
+| other potential confined spaces?      |  are required, schedule your          |
+|                                       |  appointment with Occupational Health |
+| <input type="checkbox" disabled />    |  at least 6-8 weeks prior to travel   |
+| Handling or transporting hazardous    |  (e.g for use of respirators, working |
+| materials or samples?                 |  in loud noise, handling bats or      |
+|                                       |  other hazardous wildlife).           |
+| <input type="checkbox" disabled />    |                                       |
+| Use of powered tools or equipment?    |                                       |
+|                                       |                                       |
+| <input type="checkbox" disabled />    |                                       |
+| Working in loud noise?                |                                       |
+|                                       |                                       |
+| <input type="checkbox" disabled />    |                                       |
+| ATVS?                                 |                                       |
+|                                       |                                       |
+| <input type="checkbox" disabled />    |                                       |
+| Snowmobiles?                          |                                       |
++---------------------------------------+---------------------------------------+
 
 ## Captioned figures and tables
 
